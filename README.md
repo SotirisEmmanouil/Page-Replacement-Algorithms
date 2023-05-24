@@ -1,6 +1,6 @@
 # Page-Replacement-Algorithms
 
-This project implements 4 page replacement algorithms: 
+## This project implements 4 page replacement algorithms: 
 
 <ul>
   <li>Least Recently Used</li>
