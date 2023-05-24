@@ -1,0 +1,23 @@
+# Page-Replacement-Algorithms
+
+This project implements 4 page replacement algorithms: 
+
+<ul>
+  <li>Least Recently Used</li>
+  <li>First in First Out</li>
+  <li>Second Chance</li>
+  <li>Optimal</li>
+  </ul>
+  
+ They are all implemented in their respective functions. The functions take in a page reference string as 
+ a paremeter and then compute the number of page faults for each algorithm.
+ 
+## Delivarables:
+
+<ul>
+  <li>The 4 algorithms implemented in their own respective functions</li>
+  <li>A readme file which contains instructions on how to run the program</li>
+  </ul>
+  
+  This project was completed in the Spring 2023 semester while taking Dr. Md Mahbubur Rahman's CSCI340 "Operating Systems" course at 
+  CUNY Queens College.
