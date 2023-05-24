@@ -16,7 +16,7 @@
 
 <ul>
   <li>The 4 algorithms implemented in their own respective functions</li>
-  <li>A readme file which contains instructions on how to run the program</li>
+  <li>A README file which contains instructions on how to run the program</li>
   <li>Fully documented code</li>
   </ul>
   
