@@ -9,13 +9,13 @@
   <li>Optimal</li>
   </ul>
   
- They are all implemented in their own respective functions. The functions take in a page reference string as 
+ They are all implemented in their own respective methods. Themethods take in a page reference string as 
  a paremeter and then compute the number of page faults for each algorithm. A side by side comparison is printed comaparing the page faults between all algorithms
  
 ## Delivarables:
 
 <ul>
-  <li>The 4 algorithms implemented in their own respective functions</li>
+  <li>The 4 algorithms implemented in their own respective methods</li>
   <li>A README file which contains instructions on how to run the program</li>
   <li>Fully documented code</li>
   </ul>
