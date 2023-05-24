@@ -17,6 +17,7 @@
 <ul>
   <li>The 4 algorithms implemented in their own respective functions</li>
   <li>A readme file which contains instructions on how to run the program</li>
+  <li>Fully documented code</li>
   </ul>
   
   This project was completed in the Spring 2023 semester while taking Dr. Md Mahbubur Rahman's CSCI340 "Operating Systems" course at 
