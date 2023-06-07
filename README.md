@@ -21,5 +21,3 @@
   <li>A pdf file containing a screenshot of the output</li>
   </ul>
   
-  This project was completed in the Spring 2023 semester while taking Dr. Md Mahbubur Rahman's CSCI340 "Operating System Principles" course at 
-  CUNY Queens College.
