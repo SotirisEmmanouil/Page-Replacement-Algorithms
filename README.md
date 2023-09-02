@@ -10,7 +10,7 @@
   </ul>
   
  They are all implemented in their own respective methods. The methods take in a page reference string as 
- a paremeter and then compute the total number of page faults. A side by side comparison is printed to the console comparing the total number of page faults between all the algorithms for each page reference string.
+ a parameter and then compute the total number of page faults. A side by side comparison is printed to the console comparing the total number of page faults between all the algorithms for each page reference string.
  
 ## Deliverables:
 
